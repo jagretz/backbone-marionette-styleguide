@@ -16,7 +16,7 @@ The intention of this styleguide is to guide projects and teams building backbon
 
   1. [Template](#template)
   1. [Type of Object](#type-of-object)
-  1. [Modules](#modules)
+  1. [Module](#module)
   1. [API References](#api-references)
 
 ## Template
