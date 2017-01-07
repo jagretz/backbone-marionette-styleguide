@@ -1,6 +1,6 @@
-# Backbone - Marionette Styleguide
+# (WIP) Backbone - Marionette Styleguide (WIP)
 
-*A work in progress, I have just began building an application in backbone-marionette so I am learning and gathering best practices as I go.*
+*A work in progress (wip), I have just began building an application in backbone-marionette so I am learning and gathering best practices as I go.*
 
 ## Purpose
 *An opinionated backbone-marionette styleguide for teams or individuals.*
