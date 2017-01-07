@@ -22,7 +22,7 @@ The intention of this styleguide is to guide projects and teams building backbon
 ## Template
 
 - what
-    *Why?:*
+  *Why?*: 
 
 ```javascript
 function template(param1, param2) {
@@ -36,9 +36,9 @@ function template(param1, param2) {
 
 - Define a meta object on your backbone models, collections and views. Define additional private and immutable properties with `Object.defineProperty()`.
 
-    *Why?:* `meta` property is a place to add meta information regarding the object.
-    *Why?:* Very helpful when debugging. Provides a constructive name for your object other than `child`
-    *Why?:* Makes this private and immutable.
+  *Why?*: `meta` property is a place to add meta information regarding the object.
+  *Why?*: Very helpful when debugging. Provides a constructive name for your object other than `child`
+  *Why?*: Makes this private and immutable.
 
 ```javascript
 var ModelConstructor = Backbone.NestedModel.extend({
@@ -56,7 +56,7 @@ Object.defineProperty(ModelConstructor.prototype.meta, 'className', {
 ## Module
 
 - what
-    *Why?:*
+  *Why?*: 
 
 **[Back to top](#table-of-contents)**
 
